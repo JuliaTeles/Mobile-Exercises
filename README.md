@@ -1,4 +1,4 @@
-# Mobile-Exercises
+# Mobile Exercises
 ###### &copy;Júlia Téles Cruz | 2022
 ________
 
